@@ -5,7 +5,7 @@
 
 I'm a data analyst with skills in:
 -  Python (Pandas, Matplotlib, Seaborn)
--  SQL (Microsoft SQL Server)
+-  SQL (My SQL, Microsoft SQL Server)
 -  Power BI
 -  Excel & Google Sheets
 -  Statistics & Data Analysis
