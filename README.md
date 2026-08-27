@@ -1,4 +1,4 @@
-# TradeMart_SQL & PowerBI
+# cynthia-dev21
 # Hi! I'm Chiamaka Cynthia Okoye 
 
 ## Junior Data Analyst
