@@ -19,12 +19,14 @@ I'm a data analyst with skills in:
 ## Education
 - BSc Mass Communication - UNIZIK
 
-## Certifications
-- Health and Safety (MTRI)
-- Project Management (MTRI)
-- HR Management (MTRI)
-- ICT (MTRI)
-- CRM (MTRI)
+## Certificate of Academic Excellence — Krystal Digital IT Academy​
+Federal Government Girls' College, Onitsha, in partnership with Microsoft
+• Microsoft Office Word
+• Microsoft Office PowerPoint
+• Microsoft Office Excel
+• Digital Marketing / Electronic Marketing
+• Introduction to Database
+• Introduction to E-Commerce
 
 ## Contact
 cynthiaokoye28@gmail.com
